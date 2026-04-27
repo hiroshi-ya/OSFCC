@@ -1,0 +1,64 @@
+chiron-fonts:
+  name: 昭源字体
+  url: https://chiron-fonts.github.io/
+
+  fonts:
+    - name: 昭源宋体
+      url: https://github.com/chiron-fonts/chiron-sung-hk
+      
+      dev:
+        - name: Tamcy
+          url: https://github.com/tamcy
+      
+      style: S
+      weight_count: 8
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 昭源黑体
+      url: https://github.com/chiron-fonts/chiron-hei-hk
+      
+      dev:
+        - name: Tamcy
+          url: https://github.com/tamcy
+      
+      style: SS
+      weight_count: 8
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 昭源环方
+      url: https://github.com/chiron-fonts/chiron-go-round-tc
+      
+      dev:
+        - name: Tamcy
+          url: https://github.com/tamcy
+      
+      style: R
+      weight_count: 8
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true

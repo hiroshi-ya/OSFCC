@@ -1,0 +1,62 @@
+source-hans:
+  name: 思源字体
+  url: null
+
+  fonts:
+    - name: 思源黑体
+      url: https://github.com/adobe-fonts/source-han-sans
+      
+      dev:
+        - name: Adobe
+          url: https://github.com/adobe-fonts
+      
+      style: SS
+      weight_count: 7
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 思源宋体
+      url: https://github.com/adobe-fonts/source-han-serif
+      
+      dev:
+        - name: Adobe
+          url: https://www.adobe.com
+      style: S
+      weight_count: 7
+      
+      licenses:
+        - id: OFL-1.1
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 思源等宽
+      url: https://github.com/adobe-fonts/source-han-mono
+      
+      dev:
+        - name: Adobe
+          url: https://github.com/adobe-fonts
+      
+      style: SS
+      weight_count: 7
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true

@@ -1,0 +1,24 @@
+taipei-sans:
+  name: 台北黑体
+  url: null
+
+  fonts:
+    - name: 台北黑体
+      url: https://sites.google.com/view/jtfoundry/zh-tw
+      
+      dev:
+        - name: 瀚字铸造
+          url: null
+      
+      style: SS
+      weight_count: 3
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: false
+        kor: false

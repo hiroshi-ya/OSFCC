@@ -1,0 +1,74 @@
+# licenses.yaml - all license entries are managed here
+# If a license has an SPDX license ID, use that as the entry name
+# Otherwise, use a custom ID (that looks like an SPDX id)
+
+licenses:
+  #########################
+  # custom license template
+  Template-License-1.0: # try to mimic the SPDX format
+    name: Free License Template, Version 1.0
+    url: https://example.com/license
+  #########################
+  OFL-1.1:
+    name: SIL Open Font License, Version 1.1
+    url: https://openfontlicense.org/open-font-license-official-text/
+
+  Hanazono-Font:
+    name: Hanazono Font License
+    url: https://glyphwiki.org/wiki/Group:%E8%8A%B1%E5%9C%92%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-LICENSE
+  
+  GPL-2.0-only:
+    name: GNU General Public License v2.0 only
+    url: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+  GPL-2.0-or-later:
+    name: GNU General Public License v2.0 or later
+    url: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+  GPL-3.0-only:
+    name: GNU General Public License v3.0 only
+    url: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+  GPL-3.0-or-later:
+    name: GNU General Public License v3.0 or later
+    url: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+  Arphic-1999:
+    name: Arphic Public License
+    url: https://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE
+
+  Arphic-2010-NC:
+    name: Arphic Public License (non-commercial)
+    url: https://web.archive.org/web/20110707164354/http://www.arphic.com/tw/download/public_license.rar
+
+  Apache-2.0:
+    name: Apache License, Version 2.0
+    url: https://www.apache.org/licenses/LICENSE-2.0
+
+  OGDL-Taiwan-1.0:
+    name: Taiwan Open Government Data License, Version 1.0
+    url: https://data.gov.tw/license#eng
+  
+  CC-BY-ND-3.0:
+    name: Creative Commons Attribution No Derivatives 3.0 Unported
+    url: https://creativecommons.org/licenses/by-nd/3.0/
+
+  CC-BY-NC-SA-3.0-TW:
+    name: Attribution-NonCommercial-ShareAlike 3.0 Taiwan
+    url: https://creativecommons.org/licenses/by-nc-sa/3.0/tw/deed.en
+
+  CC-BY-3.0:
+    name: Creative Commons Attribution 3.0 Unported
+    url: https://creativecommons.org/licenses/by/3.0/
+
+  CC-BY-4.0:
+    name: Creative Commons Attribution 4.0 International
+    url: https://creativecommons.org/licenses/by/4.0/
+
+  IPA:
+    name: IPA Font License Agreement v1.0
+    url: https://moji.or.jp/ipafont/license/
+
+  851-Font:
+    name: 851フォントシリーズ利用規約
+    url: https://pm85122.onamae.jp/851fontTerm.html

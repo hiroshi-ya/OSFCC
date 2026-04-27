@@ -1,0 +1,21 @@
+styles:
+  SS:
+    description: "黑体"
+    abbr: "黑"
+
+  R:
+    description: "圆体"
+    abbr: "圆"
+
+  K:
+    description: "楷体"
+    abbr: "楷"
+
+  S:
+    description: "宋体"
+    abbr: "宋"
+
+  A:
+    description: "艺术体"
+    abbr: "艺"
+  
