@@ -1,0 +1,124 @@
+zi-hi:
+  name: 字嗨字型
+  url: https://zi-hi.com/
+
+  fonts:
+    - name: 源样/源起黑体
+      url: https://github.com/ButTaiwan/genyog-font
+      
+      dev:
+        - name: But Ko
+          url: https://github.com/ButTaiwan
+      
+      style: SS
+      weight_count: 7
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 源样/源起明体
+      url: https://github.com/ButTaiwan/genyo-font
+      
+      dev:
+        - name: But Ko
+          url: https://github.com/ButTaiwan
+      
+      style: S
+      weight_count: 7
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 源流明体
+      url: https://github.com/ButTaiwan/genryu-font
+      
+      dev:
+        - name: But Ko
+          url: https://github.com/ButTaiwan
+      
+      style: S
+      weight_count: 7
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 源云明体
+      url: https://github.com/ButTaiwan/genwan-font
+      
+      dev:
+        - name: But Ko
+          url: https://github.com/ButTaiwan
+      
+      style: S
+      weight_count: 4
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 源石黑体
+      url: https://github.com/ButTaiwan/genseki-font
+      
+      dev:
+        - name: But Ko
+          url: https://github.com/ButTaiwan
+      
+      style: SS
+      weight_count: 4
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 源泉圆体
+      url: https://github.com/ButTaiwan/gensen-font
+      
+      dev:
+        - name: But Ko
+          url: https://github.com/ButTaiwan
+      
+      style: R
+      weight_count: 7
+      
+      licenses:
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true

@@ -1,0 +1,25 @@
+hanazono-fonts:
+  name: 花园字库
+  url: null
+
+  fonts:
+    - name: 花园宋体
+      url: https://glyphwiki.org/hanazono/
+      
+      dev:
+        - name: GlyphWiki
+          url: https://glyphwiki.org/
+      
+      style: S
+      weight_count: 1
+      
+      licenses:
+        - id: Hanazono-Font
+          # relation:
+        - id: OFL-1.1
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
