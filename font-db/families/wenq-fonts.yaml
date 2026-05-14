@@ -1,0 +1,91 @@
+wenq-fonts:
+  name: 文泉驿字体
+  url: http://wenq.org
+
+  fonts:
+    - name: 文泉驿微米黑
+      url: http://wenq.org/wqy2/index.cgi?MicroHei
+      
+      dev:
+        - name: 文泉驿
+          url: http://wenq.org/wqy2/index.cgi?About
+      
+      style: SS
+      weight_count: 1
+      
+      licenses:
+        - id: GPL-3.0-only
+          relation: and
+        - id: GPL-font-exception
+          relation: or
+        - id: Apache-2.0
+          relation: or
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 文泉驿正黑体
+      url: http://wenq.org/wqy2/index.cgi?ZenHei
+      
+      dev:
+        - name: 文泉驿
+          url: http://wenq.org/wqy2/index.cgi?About
+      
+      style: SS
+      weight_count: 1
+      
+      licenses:
+        - id: GPL-2.0-only
+          relation: and
+        - id: GPL-font-exception
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 文泉驿点阵宋体
+      url: http://wenq.org/wqy2/index.cgi?BitmapSong
+      
+      dev:
+        - name: 文泉驿
+          url: http://wenq.org/wqy2/index.cgi?About
+      
+      style: SS
+      weight_count: 1
+      
+      licenses:
+        - id: GPL-2.0-only
+          relation: and
+        - id: GPL-font-exception
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 文泉驿Unibit
+      url: http://wenq.org/wqy2/index.cgi?Unibit
+      
+      dev:
+        - name: 文泉驿
+          url: http://wenq.org/wqy2/index.cgi?About
+      
+      style: SS
+      weight_count: 1
+      
+      licenses:
+        - id: GPL-2.0-only
+          relation: and
+        - id: GPL-font-exception
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
