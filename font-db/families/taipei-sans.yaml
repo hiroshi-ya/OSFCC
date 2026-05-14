@@ -1,13 +1,13 @@
 taipei-sans:
-  name: 台北黑体
+  name: 台北黑體
   url: null
 
   fonts:
-    - name: 台北黑体
+    - name: 台北黑體
       url: https://sites.google.com/view/jtfoundry/zh-tw
       
       dev:
-        - name: 瀚字铸造
+        - name: 瀚字鑄造
           url: null
       
       style: SS

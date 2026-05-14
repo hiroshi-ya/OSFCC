@@ -3,7 +3,7 @@ zi-hi:
   url: https://zi-hi.com/
 
   fonts:
-    - name: 源样/源起黑体
+    - name: 源樣/源起黑體
       url: https://github.com/ButTaiwan/genyog-font
       
       dev:
@@ -23,7 +23,7 @@ zi-hi:
         jpn: true
         kor: true
     #########################
-    - name: 源样/源起明体
+    - name: 源樣/源起明體
       url: https://github.com/ButTaiwan/genyo-font
       
       dev:
@@ -43,7 +43,7 @@ zi-hi:
         jpn: true
         kor: true
     #########################
-    - name: 源流明体
+    - name: 源流明體
       url: https://github.com/ButTaiwan/genryu-font
       
       dev:
@@ -63,7 +63,7 @@ zi-hi:
         jpn: true
         kor: true
     #########################
-    - name: 源云明体
+    - name: 源雲明體
       url: https://github.com/ButTaiwan/genwan-font
       
       dev:
@@ -83,7 +83,7 @@ zi-hi:
         jpn: true
         kor: true
     #########################
-    - name: 源石黑体
+    - name: 源石黑體
       url: https://github.com/ButTaiwan/genseki-font
       
       dev:
@@ -103,7 +103,7 @@ zi-hi:
         jpn: true
         kor: true
     #########################
-    - name: 源泉圆体
+    - name: 源泉圓體
       url: https://github.com/ButTaiwan/gensen-font
       
       dev:

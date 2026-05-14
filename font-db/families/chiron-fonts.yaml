@@ -1,9 +1,9 @@
 chiron-fonts:
-  name: 昭源字体
+  name: 昭源字體
   url: https://chiron-fonts.github.io/
 
   fonts:
-    - name: 昭源宋体
+    - name: 昭源宋體
       url: https://github.com/chiron-fonts/chiron-sung-hk
       
       dev:
@@ -23,7 +23,7 @@ chiron-fonts:
         jpn: true
         kor: true
     #########################
-    - name: 昭源黑体
+    - name: 昭源黑體
       url: https://github.com/chiron-fonts/chiron-hei-hk
       
       dev:
@@ -43,7 +43,7 @@ chiron-fonts:
         jpn: true
         kor: true
     #########################
-    - name: 昭源环方
+    - name: 昭源環方
       url: https://github.com/chiron-fonts/chiron-go-round-tc
       
       dev:
