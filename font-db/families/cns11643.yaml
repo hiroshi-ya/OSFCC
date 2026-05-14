@@ -1,0 +1,74 @@
+cns11643:
+  name: CNS11643全字庫
+  url: https://data.gov.tw/dataset/5961
+
+  fonts:
+    - name: 全字庫宋體
+      url: https://www.cns11643.gov.tw/opendata/Fonts_Sung.zip
+      
+      dev:
+        - name: 台湾当局
+          url: null
+      
+      style: S
+      weight_count: 1
+      
+      licenses:
+        - id: OGDL-Taiwan-1.0
+        - id: CC-BY-4.0
+        - id: CC-BY-SA-4.0
+        - id: CC0-1.0
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 全字庫楷體
+      url: https://www.cns11643.gov.tw/opendata/Fonts_Kai.zip
+      
+      dev:
+        - name: 台湾当局
+          url: null
+      
+      style: K
+      weight_count: 1
+      
+      licenses:
+        - id: OGDL-Taiwan-1.0
+        - id: CC-BY-4.0
+        - id: CC-BY-SA-4.0
+        - id: CC0-1.0
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
+    #########################
+    - name: 說文解字字型
+      url: https://www.cns11643.gov.tw/downloadList.jsp?ID=2&ID2=20
+      
+      dev:
+        - name: 台湾当局
+          url: null
+      
+      style: Z
+      weight_count: 1
+      
+      licenses:
+        - id: OGDL-Taiwan-1.0
+        - id: OFL-1.1
+          # relation:
+      
+      support:
+        chs: false
+        cht: true
+        jpn: false
+        kor: false
+    #########################
