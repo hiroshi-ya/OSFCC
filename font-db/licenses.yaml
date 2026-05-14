@@ -69,6 +69,14 @@ licenses:
     name: Creative Commons Attribution 4.0 International
     url: https://creativecommons.org/licenses/by/4.0/
 
+  CC-BY-SA-4.0:
+    name: Creative Commons Attribution Share Alike 4.0 International
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+
+  CC0-1.0:
+    name: Creative Commons Zero v1.0 Universal
+    url: https://creativecommons.org/publicdomain/zero/1.0/
+
   IPA:
     name: IPA Font License Agreement v1.0
     url: https://moji.or.jp/ipafont/license/
