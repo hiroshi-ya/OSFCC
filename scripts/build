@@ -1,0 +1,10 @@
+#!/bin/bash
+
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
+
+python "$SCRIPT_DIR/gen-table.py"
+
+command cat "$SCRIPT_DIR/md-header/readme-body.md" \
+    "$SCRIPT_DIR/../table-gen/gen.md" \
+    "$SCRIPT_DIR/md-header/todo.md" \
+    > "$SCRIPT_DIR/../README.md"
