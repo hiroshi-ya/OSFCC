@@ -22,3 +22,7 @@ styles:
   F:
     description: "仿宋体"
     abbr: "仿"
+
+  Z:
+    description: "小篆"
+    abbr: "篆"
