@@ -1,0 +1,28 @@
+gnu-unifont:
+  name: GNU Unifont
+  url: null
+
+  fonts:
+    - name: GNU Unifont
+      url: https://unifoundry.com/unifont/index.html
+      
+      dev:
+        - name: Unifoundry
+          url: https://unifoundry.com/index.html
+      
+      style: SS
+      weight_count: 1
+      
+      licenses:
+        - id: GPL-2.0-or-later
+          relation: and
+        - id: GPL-font-exception
+          relation: or
+        - id: OFL-1.1
+          relation: or
+      
+      support:
+        chs: true
+        cht: true
+        jpn: true
+        kor: true
