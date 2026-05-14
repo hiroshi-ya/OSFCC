@@ -25,6 +25,10 @@ licenses:
     name: GNU General Public License v2.0 or later
     url: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
+  GPL-font-exception:
+    name: GPL font exception clause
+    url: http://www.gnu.org/licenses/gpl-faq.html#FontException
+
   GPL-3.0-only:
     name: GNU General Public License v3.0 only
     url: https://www.gnu.org/licenses/gpl-3.0.en.html
