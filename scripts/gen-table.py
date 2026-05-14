@@ -115,5 +115,5 @@ with open(f"{gen_path}/gen.md", 'w', encoding='utf-8') as f:
             ##############################
             family_name = "|〃|" # avoid repeating the family name
 
-        
-# print(families.keys())
+    ##############################
+    f.write('\n') # write an extra line and finish
